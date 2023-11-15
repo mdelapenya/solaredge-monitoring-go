@@ -1,3 +1,7 @@
+> [!NOTE]  
+> Inspired by https://github.com/matjazbravc/SolarEdge.Monitoring.Demo, which uses .NET for the implementation.
+
+
 ![](res/Title.png)
 
 At the end of last year, I had a solar system installed at home. And as a proud owner, I wanted to visualize the most important indicators of the system in a simple way.
